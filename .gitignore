@@ -2,3 +2,8 @@ build/gnat/gen
 thirdparty
 *~
 design_briefs
+
+# Alire-specific
+/alire/
+/config/
+/alire.lock
