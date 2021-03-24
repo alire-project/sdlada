@@ -1,5 +1,5 @@
 name = "sdlada"
-version = "2.5.3"
+version = "2.5.4-1"
 description = "Ada 2012 bindings to SDL 2"
 licenses = "Zlib"
 tags = ["sdl", "framework"]
